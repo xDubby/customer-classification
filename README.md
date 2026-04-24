@@ -129,3 +129,6 @@ Hofmann, H. (1994). Statlog (German Credit Data). UCI Machine Learning Repositor
 
 Federico D'Ubaldi  
 [LinkedIn](https://www.linkedin.com/in/federicodubaldi) | [federicodubaldi.it](https://federicodubaldi.it)
+
+##Live demo
+[Demo](https://customer-classification-nrlpetojj9a6mxnkkzfcym.streamlit.app)
